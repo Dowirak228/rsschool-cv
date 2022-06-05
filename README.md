@@ -1,1 +1,1 @@
-https://Dowirak228.github.io/rsschool-cv/cv
+https://Dowirak228.github.io/rsschool-cv/
