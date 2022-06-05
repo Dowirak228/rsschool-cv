@@ -14,3 +14,36 @@ My name is Nodir. I am 19 years old. Currently i do not working anywhere and do 
  My hobby is programming. I started my journey in this field 1 and half years ago. Started with IOS development and i loved it but I quit because i did not find any job as an intern/ junior IOS developer in spite of i could build any mobile app of junior level.
 
  My goal is to improve myself in frontend development. That's why i need to get a job at Epam. Cause Epam is an American most powerful company that exist in Central Asia.
+
+# **Skills:**
+
+### IOS Development
+* Swift
+* UIKit
+* Xcode
+* JSON / asynchronous / GCD
+* API
+
+### Front-end Development
+* HTML
+* CSS (Sass)
+* JS Es6+
+* VSCode
+* Git/ Github
+* Figma
+
+
+# **Courses**
+
+* Udemy - Angela Yu
+* The Odin Project
+
+
+# **Languages**
+
+1. Uzbek (native)
+2. Russian (proficiency)
+3. English (intermediate)
+
+# **Work experience**
+I have had no commercial work experience yet.
