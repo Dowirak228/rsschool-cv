@@ -13,6 +13,7 @@ body {
    min-height: 100vh;
    display: flex;
    flex-direction: column;
+   background-color: rgba(0, 0, 0, 0.067);
 }
 
 header {
@@ -78,6 +79,7 @@ main {
 .section_title {
    color: #000;
    margin-bottom: 10px;
+   color: rgb(10, 50, 110);
 }
 
 .section_info {
@@ -88,6 +90,7 @@ main {
 
 .section_info_title {
    font-weight: 600;
+   color: rgb(10, 50, 110);
 }
 
 .section_info_content {
@@ -104,4 +107,5 @@ main {
 
 .section_info_item_title {
    font-style: italic;
+   color: rgb(10, 50, 110);
 }
