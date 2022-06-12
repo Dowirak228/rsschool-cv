@@ -66,8 +66,8 @@ main {
 }
 
 .section {
-   width: 50%;
-   margin: 10px;
+   width: 46%;
+   margin: 16px;
 }
 
 @media (max-width: 768px) {
@@ -76,36 +76,80 @@ main {
    }
  }
 
-.section_title {
+.section1_title {
    color: #000;
    margin-bottom: 10px;
    color: rgb(10, 50, 110);
 }
 
-.section_info {
+.section1_info {
    display: flex;
    flex-direction: column;
    gap: 10px;
 }
 
-.section_info_title {
+.section1_info_title {
    font-weight: 600;
    color: rgb(10, 50, 110);
 }
 
-.section_info_content {
+.section1_info_content {
    width: 100vw;
 }
 
-.section_info_list {
+.section1_info_list {
    list-style-type: none;
 }
 
-.section_info_list a {
+.section1_info_list a {
    text-decoration: none;
 }
 
-.section_info_item_title {
+.section1_info_item_title {
    font-style: italic;
    color: rgb(10, 50, 110);
+}
+
+.section_separator {
+   margin-top: 20px;
+   margin-bottom: 20px;
+   width: 80%;
+   border: 1px solid rgba(0, 0, 0, 0.347);
+}
+
+.section2_title {
+   color: rgb(10, 50, 110);
+   font-weight: 600;
+   margin-bottom: 10px;
+}
+
+.section2_info {
+   font-size: 0.9rem;
+}
+
+.section3 {
+  
+}
+
+.section3_title {
+   color: rgb(10, 50, 110);
+   font-weight: 600;
+}
+
+.section3_info_title {
+   margin-top: 14px;
+   color: rgb(10, 50, 110);
+   font-weight: 600;
+}
+
+.section3_info__list {
+   list-style-type: none;
+   margin-top: 10px;
+   margin-left: 10px;
+}
+
+.section4_title {
+   color: rgb(10, 50, 110);
+   font-weight: 600;
+   margin-bottom: 14px;
 }
