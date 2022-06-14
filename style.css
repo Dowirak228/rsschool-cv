@@ -82,6 +82,17 @@ main {
    color: rgb(10, 50, 110);
 }
 
+.section1_content {
+   display: flex;
+   gap: 50px;
+   align-items: center;
+}
+
+.section1_content img {
+   width: 100px;
+   border-radius: 50%;
+}
+
 .section1_info {
    display: flex;
    flex-direction: column;
