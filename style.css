@@ -184,3 +184,32 @@ code {
    font-weight: 600;
    margin-bottom: 14px;
 }
+
+
+.footer_body {
+   display: flex;
+   justify-content: space-between;
+   background-color: rgb(1, 151, 161);
+   align-items: center;
+   padding: 5px;
+}
+
+.footer_body_left {
+   margin-left: 20px;
+   display: flex;
+   gap: 20px;
+}
+
+.footer_body_left a {
+   text-decoration: none;
+   color: black;
+}
+
+.footer_body_right {
+   display: flex;
+   text-align: center;
+}
+
+.footer_body_right img {
+   width: 40%;
+}
