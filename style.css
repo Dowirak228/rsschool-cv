@@ -32,7 +32,7 @@ header {
 }
 
 .nav_list:last-child {
-   margin-right: 50px;
+   padding-right: 50px;
 }
 
 .nav_item {
@@ -63,11 +63,11 @@ main {
 .main_container {
    display: flex;
    flex-wrap: wrap;
+   padding: 16px;
 }
 
 .section {
    width: 46%;
-   margin: 16px;
 }
 
 @media (max-width: 768px) {
@@ -152,4 +152,14 @@ main {
    color: rgb(10, 50, 110);
    font-weight: 600;
    margin-bottom: 14px;
+}
+
+.section5_title {
+   color: rgb(10, 50, 110);
+   font-weight: 600;
+   margin-bottom: 14px;
+}
+
+code {
+   font-size: 1.1rem;
 }
