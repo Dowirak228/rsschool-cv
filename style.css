@@ -163,3 +163,9 @@ main {
 code {
    font-size: 1.1rem;
 }
+
+.section6_title {
+   color: rgb(10, 50, 110);
+   font-weight: 600;
+   margin-bottom: 14px;
+}
