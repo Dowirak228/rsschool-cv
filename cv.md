@@ -58,3 +58,9 @@ for (i = 1; i < 99; i++) {
 ```
 
 
+# **Languages**
+
+1. Uzbek (native)
+2. Russian (proficiency)
+3. English (intermediate)
+
