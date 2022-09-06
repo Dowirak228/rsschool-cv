@@ -33,3 +33,9 @@
 * Figma
 
 
+# **Courses**
+
+* Udemy - Angela Yu
+* The Odin Project
+
+
