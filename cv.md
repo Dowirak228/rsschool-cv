@@ -15,3 +15,21 @@
 
  My goal is to improve myself in frontend development. That's why i need to get a job at Epam. Cause Epam is an American most powerful company that exist in Central Asia.
 
+# **Skills:**
+
+### IOS Development
+* Swift
+* UIKit
+* Xcode
+* JSON / asynchronous / GCD
+* API
+
+### Front-end Development
+* HTML
+* CSS (Sass)
+* JS Es6+
+* VSCode
+* Git/ Github
+* Figma
+
+
