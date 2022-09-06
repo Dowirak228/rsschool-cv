@@ -64,3 +64,5 @@ for (i = 1; i < 99; i++) {
 2. Russian (proficiency)
 3. English (intermediate)
 
+# **Work experience**
+I have had no commercial work experience yet.
